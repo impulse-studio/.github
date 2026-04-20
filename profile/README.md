@@ -1,4 +1,4 @@
-<img width="2970" height="900" alt="banner-3 3_1" src="https://github.com/user-attachments/assets/3152c98f-dc75-45f1-a4fd-5bbea56785c8" />
+<img width="2970" alt="banner-3 3_1" src="https://github.com/user-attachments/assets/3152c98f-dc75-45f1-a4fd-5bbea56785c8" />
 
 ## 🌐 À propos d'Impulse
 
